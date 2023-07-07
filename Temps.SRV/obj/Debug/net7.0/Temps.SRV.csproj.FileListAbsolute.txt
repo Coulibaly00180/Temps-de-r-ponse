@@ -1,0 +1,17 @@
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.SRV.deps.json
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.SRV.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.SRV.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.DAL.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.DTO.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.DAL.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\bin\Debug\net7.0\Temps.DTO.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.csproj.AssemblyReference.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.AssemblyInfoInputs.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.AssemblyInfo.cs
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.csproj.CoreCompileInputs.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.csproj.CopyComplete
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\refint\Temps.SRV.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\Temps.SRV.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.SRV\obj\Debug\net7.0\ref\Temps.SRV.dll

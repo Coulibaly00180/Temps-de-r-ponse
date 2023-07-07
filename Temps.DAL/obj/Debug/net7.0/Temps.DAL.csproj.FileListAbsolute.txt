@@ -1,0 +1,12 @@
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\bin\Debug\net7.0\Temps.DAL.deps.json
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\bin\Debug\net7.0\Temps.DAL.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\bin\Debug\net7.0\Temps.DAL.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.csproj.AssemblyReference.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.AssemblyInfoInputs.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.AssemblyInfo.cs
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\refint\Temps.DAL.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\Temps.DAL.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DAL\obj\Debug\net7.0\ref\Temps.DAL.dll

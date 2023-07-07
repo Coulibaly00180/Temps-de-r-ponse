@@ -1,0 +1,12 @@
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\bin\Debug\net7.0\Temps.DTO.deps.json
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\bin\Debug\net7.0\Temps.DTO.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\bin\Debug\net7.0\Temps.DTO.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.csproj.AssemblyReference.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.AssemblyInfoInputs.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.AssemblyInfo.cs
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\refint\Temps.DTO.dll
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\Temps.DTO.pdb
+C:\Users\ZANA1\source\repos\Temps_de_repon\Temps.DTO\obj\Debug\net7.0\ref\Temps.DTO.dll
